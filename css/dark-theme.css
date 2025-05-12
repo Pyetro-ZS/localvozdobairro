@@ -293,7 +293,7 @@ body.dark-theme .btn-primary:hover {
 }
 
 .dark-theme .hero-content p{
-  color: var(--textc-color);
+  color: var(--white);
 }
 
 .dark-theme .form-group input,
