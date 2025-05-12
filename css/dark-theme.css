@@ -292,6 +292,10 @@ body.dark-theme .btn-primary:hover {
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
 }
 
+.dark-theme .hero-content p{
+  color: var(--textc-color);
+}
+
 .dark-theme .form-group input,
 .dark-theme .form-group select,
 .dark-theme .form-group textarea {
