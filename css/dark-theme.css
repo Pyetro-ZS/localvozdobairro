@@ -217,15 +217,9 @@ body.dark-theme .btn-primary:hover {
   color: var(--text-color);
 }
 
-.dark-theme .footer-bottom {
-  background-color: 1a1a2e;
-  border-top: 1px solid rgba(255, 255, 255, 0.2);
-  color: var(--text-color);
-}
 
-.dark-theme .footer-section a, p, h3 {
-  color: var(--text-color);
-}
+
+
 
 .dark-theme .footer-section a:hover {
   color: var(--primary-light);
