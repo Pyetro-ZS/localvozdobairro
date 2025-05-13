@@ -209,12 +209,12 @@ body.dark-theme .btn-primary:hover {
 
 .dark-theme footer {
   background-color: #1a1a2e;
-  color: var(--text-color);
+  color: var(--white);
 }
 
 .dark-theme .footer-content {
   background-color: #1a1a2e;
-  color: var(--text-color);
+  color: var(--white);
 }
 
 .dark-theme .footer-bottom {
