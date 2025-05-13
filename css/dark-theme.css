@@ -212,7 +212,7 @@ body.dark-theme .btn-primary:hover {
   color: var(--white);
 }
 
-.dark-theme .footer-content {
+.dark-theme .footer-content .footer-section a, p, h3 {
   background-color: #1a1a2e;
   color: var(--white);
 }
