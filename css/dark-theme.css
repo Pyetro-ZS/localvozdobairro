@@ -32,7 +32,7 @@ body.dark-theme {
 
 
 body.dark-theme a {
-  color: var(--primary-light);
+  color: var(--white);
 }
 
 body.dark-theme a:hover {
