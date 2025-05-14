@@ -125,9 +125,14 @@ body.dark-theme .btn-primary:hover {
   box-shadow: 0 2px 10px rgba(0, 0, 0, 0.5);
 }
 
-.dark-theme .nav-links a {
+.dark-theme .nav-links 
+a {
   color: #ffffff;
 }
+
+.dark-theme . nav-links active{
+  background-color: var(--background-color);
+    }
 
 .dark-theme .nav-links a:hover,
 .dark-theme .nav-links a.active {
