@@ -223,9 +223,7 @@ body.dark-theme .btn-primary:hover {
   color: var(--white);
 }
 
-.dark-theme .footer-section a, p, h3 {
-  color: var(--text-color);
-}
+
 
 .dark-theme .footer-section a:hover {
   color: var(--primary-light);
